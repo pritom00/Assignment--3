@@ -39,7 +39,7 @@ This project demonstrates the design and implementation of a relational database
 ## 📁 Files Included
 
 - `QUERY.sql` - Complete DDL, Data Seeding & All Queries
-- `ERD.png` - Entity Relationship Diagram
+- `ERD.JPG` - Entity Relationship Diagram
 
 ## 🚀 Database Setup
 
